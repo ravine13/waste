@@ -15,7 +15,7 @@ export default function SkipSelection() {
       size: "4 Yard Skip",
       price: "£211",
       period: "14 day hire period",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "https://yozbrydxdlcxghkphhtq.supabase.co/storage/v1/object/public/skips/skip-sizes/4-yarder-skip.jpg",
       yards: "4 Yards",
     },
     {
@@ -23,7 +23,7 @@ export default function SkipSelection() {
       size: "5 Yard Skip",
       price: "£241",
       period: "14 day hire period",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "https://yozbrydxdlcxghkphhtq.supabase.co/storage/v1/object/public/skips/skip-sizes/5-yarder-skip.jpg", 
       yards: "5 Yards",
     },
     {
@@ -31,7 +31,7 @@ export default function SkipSelection() {
       size: "6 Yard Skip",
       price: "£264",
       period: "14 day hire period",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "https://yozbrydxdlcxghkphhtq.supabase.co/storage/v1/object/public/skips/skip-sizes/6-yarder-skip.jpg", 
       yards: "6 Yards",
     },
     {
@@ -39,7 +39,7 @@ export default function SkipSelection() {
       size: "8 Yard Skip",
       price: "£295",
       period: "14 day hire period",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "https://yozbrydxdlcxghkphhtq.supabase.co/storage/v1/object/public/skips/skip-sizes/8-yarder-skip.jpg", 
       yards: "8 Yards",
     },
     {
@@ -47,7 +47,7 @@ export default function SkipSelection() {
       size: "10 Yard Skip",
       price: "£356",
       period: "14 day hire period",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "https://yozbrydxdlcxghkphhtq.supabase.co/storage/v1/object/public/skips/skip-sizes/10-yarder-skip.jpg", 
       yards: "10 Yards",
       warning: "Not Allowed On The Road",
     },
@@ -56,7 +56,7 @@ export default function SkipSelection() {
       size: "12 Yard Skip",
       price: "£390",
       period: "14 day hire period",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "https://yozbrydxdlcxghkphhtq.supabase.co/storage/v1/object/public/skips/skip-sizes/12-yarder-skip.jpg", 
       yards: "12 Yards",
       warning: "Not Allowed On The Road",
     },
