@@ -91,10 +91,10 @@ The application supports both placeholder images and real images from external s
 ##  Usage
 
 1. **Browse Skips**: Hover over skip cards to view pricing and details
-2. **Select Skip**: Click "Select This Skip" to choose a skip
+2. **Select Skip**: Click `Select This Skip` to choose a skip
 3. **Review Selection**: Confirm your choice in the modal dialog
-4. **Toggle Selection**: Click "Selected" to deselect if needed
-5. **Proceed**: Use "Confirm & Continue" to move to the next step
+4. **Toggle Selection**: Click `Selected` to deselect if needed
+5. **Proceed**: Use `Confirm & Continue` to move to the next step
 
 ##  State Management
 
