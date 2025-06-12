@@ -4,7 +4,7 @@ import { useState } from "react"
 import { ArrowRight, AlertTriangle } from "lucide-react"
 
 export default function SkipCard({ skip, isSelected, onSelect }) {
-  const [isHovering, setIsHovering] = useState(false) // new comment
+  const [isHovering, setIsHovering] = useState(false) 
 
   return (
     <div

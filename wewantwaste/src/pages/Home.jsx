@@ -1,4 +1,4 @@
-// src/pages/Home.jsx
+
 import { useEffect, useState } from "react";
 import { fetchSkipsByLocation } from "../service/api";
 import SkipCard from "../components/SkipCard";

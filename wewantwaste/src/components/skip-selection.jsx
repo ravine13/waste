@@ -63,14 +63,13 @@ export default function SkipSelection() {
   ]
 
   const handleSelectSkip = (skip) => {
-    // If the skip is already selected, deselect it
     if (selectedSkip === skip.id) {
       setSelectedSkip(null)
       setSelectedSkipDetails(null)
       return
     }
 
-    // Otherwise, select the new skip and show confirmation
+    
     setSelectedSkip(skip.id)
     setSelectedSkipDetails(skip)
     setShowConfirmation(true)
@@ -81,7 +80,7 @@ export default function SkipSelection() {
   }
 
   const handleConfirmSelection = () => {
-    // Here you would navigate to the next page
+  
     console.log("Confirmed selection:", selectedSkipDetails)
     setShowConfirmation(false)
   }
